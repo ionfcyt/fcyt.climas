@@ -3,7 +3,7 @@ Type: Package
 Title: CLIMATOLOGIA
 Version: 0.1.0
 Author: Nihel Ruiz Atanacio
-Maintainer: The package maintainer <yourself@somewhere.net>
+Maintainer:  <ruiz.22112012@gmail.com>
 Description: Transfomacion de datos .xlsx a .dat .
 License: GPL-3
 Encoding: UTF-8
